@@ -1,2 +1,0 @@
-# movie-test
-video-test
